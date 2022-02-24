@@ -2,15 +2,20 @@
   "name": "wetube-clone-2022",
   "version": "1.0.0",
   "description": "The best way to watch a videos.",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yo-resistor/wetube-reloaded.git"
+  },
+  "scripts": {
+    "win": "node index.js"
   },
   "author": "Yunsik Ohm <oys0817@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yo-resistor/wetube-reloaded/issues"
   },
-  "homepage": "https://github.com/yo-resistor/wetube-reloaded#readme"
+  "homepage": "https://github.com/yo-resistor/wetube-reloaded#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
