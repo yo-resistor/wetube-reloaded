@@ -17,5 +17,8 @@
   "homepage": "https://github.com/yo-resistor/wetube-reloaded#readme",
   "dependencies": {
     "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.5"
   }
 }
