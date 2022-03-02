@@ -7,7 +7,7 @@
     "url": "git+https://github.com/yo-resistor/wetube-reloaded.git"
   },
   "scripts": {
-    "dev": "nodemon --exec babel-node index.js"
+    "dev": "nodemon --exec babel-node src/index.js"
   },
   "author": "Yunsik Ohm <oys0817@gmail.com>",
   "license": "MIT",
